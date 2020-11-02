@@ -1,1 +1,2 @@
-This is new file created after commiting DemoDoc change done at remote for rebase
+
+This is new file created after commiting DemoDoc change done at remote for rebase and  Enhancement at local master to get rebasing idea
